@@ -1,3 +1,6 @@
+# docker aliases
+alias docker = 'dck'
+
 # docker-compose aliases
 alias d-c='docker-compose'
 alias dcb='docker-compose build'
